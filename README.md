@@ -1,1 +1,1 @@
-# citi-config
+# citimsconfig
